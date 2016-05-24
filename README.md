@@ -5,3 +5,4 @@ This is a recreation of the board game [*Pandemic*](https://en.wikipedia.org/wik
 We started making the decks in Python, then worked it into a GUI with Tkinter. Then we decided to make it out final project for our class, and made a board and pieces in Unity. The .py files where compiled into .exe files with [PyInstaller](http://www.pyinstaller.org/). 
   
 [Wiki](https://github.com/hornedCapybara/Pandemic-in-Python/wiki)
+XX
